@@ -164,6 +164,7 @@ Blog:
 
 > Highly recommend reading his KSMASH writeup — very insightful.
 
+🔗 [https://slavaim.blogspot.com/2017/09/linux-kernel-debugging-with-gdb-getting.html](https://slavaim.blogspot.com/2017/09/linux-kernel-debugging-with-gdb-getting.html)
 ---
 
 ## ✅ TL;DR
